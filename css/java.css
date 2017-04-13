@@ -1,0 +1,8 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: #FA6900;
+    border-radius: 5px;
+    display : table-cell;
+    
+}
